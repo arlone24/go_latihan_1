@@ -1,7 +1,7 @@
-# latihan 1
+# Header
 
-belajar git
+belajar git dasar
 
-# subheader
+# Subheader
 
 watched on youtube, freecodecamp.org
